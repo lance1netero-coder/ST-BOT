@@ -105,21 +105,7 @@
     },
     "telegram": {
       "enable": false,
-      "botToken": "[
-    {
-        "name": "datr",
-        "value": "brYVabPBREnu1cNFBAq9dEdn",
-        "domain": ".facebook.com",
-        "hostOnly": false,
-        "path": "/",
-        "secure": true,
-        "httpOnly": true,
-        "sameSite": "no_restriction",
-        "session": false,
-        "firstPartyDomain": "",
-        "partitionKey": null,
-        "expirationDate": 1797673003.975,
-        "storeId": null
+      "botToken": "": null
     },
     {
         "name": "fr",
